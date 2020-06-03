@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: 东宁
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: A Science fiction writer in university
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: 天津中医药大学
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Computer games
+- Music
+- writing
 
 education:
   courses:
